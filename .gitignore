@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+*.err
+app.log
+app.err
+calibration.json
+.env
+.venv/
+venv/
